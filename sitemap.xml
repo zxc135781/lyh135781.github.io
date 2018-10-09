@@ -3,41 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/2018/my/</loc>
-    <lastmod>2018-10-09T20:50:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/2018/my-first-post/</loc>
+    <loc>https://ihux.cn/2018/first/</loc>
     <lastmod>2018-10-09T20:34:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/archives/2018/</loc>
-    <lastmod>2018-10-09T20:50:17+08:00</lastmod>
+    <loc>https://ihux.cn/archives/2018/</loc>
+    <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/archives/</loc>
-    <lastmod>2018-10-09T20:50:17+08:00</lastmod>
+    <loc>https://ihux.cn/archives/</loc>
+    <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-10-09T20:50:17+08:00</lastmod>
+    <loc>https://ihux.cn/post/</loc>
+    <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2018-10-09T20:50:17+08:00</lastmod>
+    <loc>https://ihux.cn/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ihux.cn/</loc>
+    <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
