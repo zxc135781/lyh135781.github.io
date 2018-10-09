@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ihux.cn/2018/first/</loc>
+    <loc>https://i.ihux.cn/2018/first/</loc>
     <lastmod>2018-10-09T20:34:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihux.cn/archives/2018/</loc>
-    <lastmod>2018-10-09T20:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ihux.cn/archives/</loc>
+    <loc>https://i.ihux.cn/archives/2018/</loc>
     <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ihux.cn/post/</loc>
+    <loc>https://i.ihux.cn/archives/</loc>
     <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ihux.cn/tags/</loc>
+    <loc>https://i.ihux.cn/post/</loc>
+    <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ihux.cn/</loc>
+    <loc>https://i.ihux.cn/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://i.ihux.cn/</loc>
     <lastmod>2018-10-09T20:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
